@@ -1,6 +1,6 @@
 # work-schedule
 
-Behold!  A scheduler for your 9-5 job!
+Behold!  A scheduler for your 9-5 job! https://scrysis.github.io/work-schedule/
 
 
 ![A webpage to track your daily mundanity!](assets/schedule01.jpg)
